@@ -1,3 +1,7 @@
+# PROJECT MOVED TO GEORUST
+The project is now owned and maintained by the georust organization:
+https://github.com/georust/geographiclib-rs
+
 # geodesic-rs
 A port of [geographiclib](https://geographiclib.sourceforge.io/) in Rust
 
